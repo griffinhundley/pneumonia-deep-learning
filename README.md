@@ -4,12 +4,10 @@
 
 ```
 ├── README.md                           <- The high-level overview of this project
-├── chestxraypresentation.pdf           <- PDF version of project presentation
 ├── data                                <- Sourced externally
 ├── images                              <- Both sourced externally and generated from code
 ├── notebooks                           <- All notebooks used in this project, including the Final_Notebook and models notebook
-├── presentation                        <- Contains final presentation
-└── src                                 <- Code files referenced in project
+└── presentation                        <- Contains final presentation
 ```
 
 ## Business Problem
